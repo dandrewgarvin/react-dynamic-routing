@@ -1,8 +1,3 @@
-# HouseParty Apps
+# React Dynamic Routing Template
 
-## TODO
-
-- [] Add better state management
-- [] Change how state and user are passed to permissions
-- [] Add dev logging in permission checking
-- [] Add devtools to handle dev toggles (including logging)
+This template contains the basic setup for permission-based dynamic routing on the client. It also has a global state management system that follows a reducer pattern, and uses the useReducer and useContext API's
